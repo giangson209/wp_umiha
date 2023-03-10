@@ -1,0 +1,225 @@
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-Bold.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-BoldItalic.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-ExtraLight.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-ExtraLight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-Light.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-LightItalic.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-ExtraLightItalic.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-ExtraLightItalic.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-Italic.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-SemiBold.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-Regular.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-SemiBoldItalic.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-SemiBoldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-MediumItalic.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-Medium.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-ThinItalic.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-ThinItalic.woff') format('woff');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Josefin';
+  src: url('../fonts/jose/JosefinSans-Thin.woff2') format('woff2'),
+  url('../fonts/jose/JosefinSans-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'VN-Boowie';
+  src: url('../fonts/VN-Boowie-Regular.woff2') format('woff2'),
+  url('../fonts/VN-Boowie-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-Bold.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-LightItalic.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-BoldItalic.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-MediumItalic.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-Light.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-Medium.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-Italic.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-Regular.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-Thin.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ogg';
+  src: url('../fonts/ogg/SVN-Ogg-ThinItalic.woff2') format('woff2'),
+  url('../fonts/ogg/SVN-Ogg-ThinItalic.woff') format('woff');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+

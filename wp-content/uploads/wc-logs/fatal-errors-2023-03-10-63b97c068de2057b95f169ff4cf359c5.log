@@ -1,0 +1,9 @@
+2023-03-10T22:44:04+00:00 CRITICAL Uncaught ArgumentCountError: date() expects at least 1 argument, 0 given in C:\laragon\www\umiha\wp-content\themes\umiha\single.php:31
+Stack trace:
+#0 C:\laragon\www\umiha\wp-content\themes\umiha\single.php(31): date()
+#1 C:\laragon\www\umiha\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\umiha\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\umiha\index.php(17): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown in C:\laragon\www\umiha\wp-content\themes\umiha\single.php on line 31
+

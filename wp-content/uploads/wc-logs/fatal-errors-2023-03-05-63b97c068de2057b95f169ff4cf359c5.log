@@ -1,0 +1,450 @@
+2023-03-05T08:29:40+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\taxonomy-product-cat.php on line 315
+
+2023-03-05T12:15:31+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:132
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php(2): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 132
+
+2023-03-05T12:15:33+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:132
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php(2): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 132
+
+2023-03-05T12:24:01+00:00 CRITICAL syntax error, unexpected 'img' (T_STRING) in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 163
+
+2023-03-05T12:24:41+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:169
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php(2): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 169
+
+2023-03-05T12:24:53+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:169
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php(2): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 169
+
+2023-03-05T12:25:23+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:169
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php(2): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 169
+
+2023-03-05T12:25:50+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:163
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php(2): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 163
+
+2023-03-05T12:26:05+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:163
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php(2): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 163
+
+2023-03-05T12:26:38+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:169
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php(2): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 169
+
+2023-03-05T12:26:46+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:169
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php(2): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 169
+
+2023-03-05T17:28:24+00:00 CRITICAL Uncaught Error: Call to undefined function pll__() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php:181
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-home.php on line 181
+
+2023-03-05T17:56:12+00:00 CRITICAL require_once(): Failed opening required 'templates/banner.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\umiha\wp-content\themes\umiha\templates\page-news.php on line 114
+
+2023-03-05T18:54:39+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\umiha\wp-content\themes\umiha\functions.php on line 327
+
+2023-03-05T18:54:54+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\umiha\wp-content\themes\umiha\functions.php on line 327
+
+2023-03-05T18:55:20+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\umiha\wp-content\themes\umiha\functions.php on line 327
+
+2023-03-05T18:56:00+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\umiha\wp-content\themes\umiha\functions.php on line 326
+
+2023-03-05T19:47:57+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:48:14+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:48:20+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:50:07+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:50:56+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:52:12+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:52:17+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:52:21+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:54:32+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:54:35+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:54:58+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T19:55:16+00:00 CRITICAL Uncaught Error: Call to undefined function the_expert() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:67
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 67
+
+2023-03-05T20:24:17+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 74
+
+2023-03-05T20:28:59+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 72
+
+2023-03-05T21:06:02+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:06:52+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:07:00+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:07:06+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:07:13+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:07:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:07:55+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:08:02+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:08:17+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:08:31+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:08:42+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:09:03+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_available_variations() in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php:71
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php on line 71
+
+2023-03-05T21:25:37+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on bool in C:\xampp\htdocs\umiha\wp-content\plugins\woocommerce\includes\class-wc-cart.php:1134
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-content\themes\umiha\functions.php(279): WC_Cart->add_to_cart(0, 2, 245)
+#1 C:\xampp\htdocs\umiha\wp-includes\class-wp-hook.php(308): woocommerce_ajax_add_to_cart('')
+#2 C:\xampp\htdocs\umiha\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\umiha\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\umiha\wp-admin\admin-ajax.php(188): do_action('wp_ajax_woocomm...')
+#5 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\plugins\woocommerce\includes\class-wc-cart.php on line 1134
+
+2023-03-05T21:26:24+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on bool in C:\xampp\htdocs\umiha\wp-content\plugins\woocommerce\includes\class-wc-cart.php:1134
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-content\themes\umiha\functions.php(279): WC_Cart->add_to_cart(0, 2, 245)
+#1 C:\xampp\htdocs\umiha\wp-includes\class-wp-hook.php(308): woocommerce_ajax_add_to_cart('')
+#2 C:\xampp\htdocs\umiha\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\umiha\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\umiha\wp-admin\admin-ajax.php(188): do_action('wp_ajax_woocomm...')
+#5 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\plugins\woocommerce\includes\class-wc-cart.php on line 1134
+
+2023-03-05T21:28:14+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on bool in C:\xampp\htdocs\umiha\wp-content\plugins\woocommerce\includes\class-wc-cart.php:1134
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-content\themes\umiha\functions.php(279): WC_Cart->add_to_cart(0, 2, 245)
+#1 C:\xampp\htdocs\umiha\wp-includes\class-wp-hook.php(308): woocommerce_ajax_add_to_cart('')
+#2 C:\xampp\htdocs\umiha\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\umiha\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\umiha\wp-admin\admin-ajax.php(188): do_action('wp_ajax_woocomm...')
+#5 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\plugins\woocommerce\includes\class-wc-cart.php on line 1134
+
+2023-03-05T21:28:30+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on bool in C:\xampp\htdocs\umiha\wp-content\plugins\woocommerce\includes\class-wc-cart.php:1134
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-content\themes\umiha\functions.php(279): WC_Cart->add_to_cart(0, 2, 246)
+#1 C:\xampp\htdocs\umiha\wp-includes\class-wp-hook.php(308): woocommerce_ajax_add_to_cart('')
+#2 C:\xampp\htdocs\umiha\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\umiha\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\umiha\wp-admin\admin-ajax.php(188): do_action('wp_ajax_woocomm...')
+#5 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\plugins\woocommerce\includes\class-wc-cart.php on line 1134
+
+2023-03-05T21:31:06+00:00 CRITICAL Uncaught Error: Object of class WC_Product_Attribute could not be converted to string in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:222
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php(3): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 222
+
+2023-03-05T21:31:18+00:00 CRITICAL Uncaught Error: Object of class WC_Product_Attribute could not be converted to string in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:222
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php(3): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 222
+
+2023-03-05T21:31:35+00:00 CRITICAL Uncaught Error: Object of class WC_Product_Attribute could not be converted to string in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:222
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php(3): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 222
+
+2023-03-05T21:31:54+00:00 CRITICAL Uncaught Error: Object of class WC_Product_Attribute could not be converted to string in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:222
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php(3): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 222
+
+2023-03-05T21:32:04+00:00 CRITICAL Uncaught Error: Object of class WC_Product_Attribute could not be converted to string in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:222
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php(3): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 222
+
+2023-03-05T21:32:23+00:00 CRITICAL Uncaught Error: Object of class WC_Product_Attribute could not be converted to string in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:222
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php(3): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 222
+
+2023-03-05T21:47:15+00:00 CRITICAL Uncaught Error: Object of class WC_Product_Attribute could not be converted to string in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php:222
+Stack trace:
+#0 C:\xampp\htdocs\umiha\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\umiha\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\umiha\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\umiha\wp-content\themes\umiha\woocommerce\single-product.php(3): get_header()
+#4 C:\xampp\htdocs\umiha\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\umiha\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\umiha\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\umiha\wp-content\themes\umiha\header.php on line 222
+
